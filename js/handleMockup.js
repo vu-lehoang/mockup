@@ -27,6 +27,6 @@ btnMockupEl.addEventListener("click", function (e) {
       item.setAttribute("src", url);
     });
   } else {
-    alert("khong biet cai nao la link a");
+    alert("Vui lòng nhập link");
   }
 });
