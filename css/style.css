@@ -40,7 +40,7 @@ ul li {
 }
 
 .website-title {
-  background-color: #ef5223;
+  background-color: #0066cc;
   color: #fff !important;
   padding: 28px 23px 0;
   text-align: center;
@@ -59,7 +59,7 @@ ul li {
 .website-input {
   text-align: center;
   padding: 40px;
-  background-color: #636363;
+  background-color: #072d94;
 }
 
 .website-input input {
@@ -335,7 +335,7 @@ ul li {
 }
 
 .description-wrapper {
-  background-color: #186279;
+  background-color: #0066cc;
   color: #fff;
   font-size: 18px;
   text-align: center;
@@ -345,7 +345,7 @@ ul li {
 
 .description h2 {
   margin-bottom: 40px;
-  background-color: #003249;
+  background-color: #072d94;
   padding: 28px;
 }
 
@@ -354,7 +354,7 @@ ul li {
 }
 
 .copyright {
-  background-color: #003249;
+  background-color: #072d94;
   color: #fff;
   padding: 18px 0;
   text-align: center;
