@@ -22,6 +22,7 @@ btnMockupEl.addEventListener("click", function (e) {
   e.preventDefault();
   console.log(inputMockupEl.value);
   const url = inputMockupEl.value;
+
   if (isValidUrl(url)) {
     iframeMockupEl.forEach((item) => {
       item.setAttribute("src", url);
